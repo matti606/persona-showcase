@@ -3,7 +3,7 @@
 Dit project is een AI-gestuurde persona tool die ik ontwikkeld heb tijdens mijn stage.
 Op basis van een stellingentest (gebruikers kiezen telkens tussen twee stellingen) wordt via OpenAI een persoonlijkheidsprofiel opgesteld en automatisch gematcht met de best passende persona.
 
-> **Over de codestructuur:** het stagebedrijf werkte met een eigen custom PHP CMS met een vaste werkwijze: logica leeft in losse script-bestanden, één centrale JS-file per pagina (geen bundler), een eigen autoloader en een afwijkende MVC-aanpak. Die patronen zijn eigen aan hun systeem en heb ik gevolgd om consistent te blijven met de bestaande codebase — ze weerspiegelen niet mijn eigen voorkeur voor architectuur.
+> **Over de codestructuur:** het stagebedrijf werkte met een eigen custom PHP CMS met een vaste werkwijze: logica leeft in losse script-bestanden, één centrale JS-file per pagina (geen bundler), een eigen autoloader en een afwijkende MVC-aanpak. Die patronen zijn eigen aan hun systeem en heb ik gevolgd om consistent te blijven met de bestaande codebase, ze weerspiegelen niet mijn eigen voorkeur voor architectuur.
 
 ---
 
